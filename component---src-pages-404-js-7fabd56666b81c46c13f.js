@@ -1,0 +1,2 @@
+(self.webpackChunktragedy_of_the_commons_highway_to_2030=self.webpackChunktragedy_of_the_commons_highway_to_2030||[]).push([[883],{9616:function(e,t,n){"use strict";n.r(t);var _=n(7294);t.default=function(e){return _.createElement("section",null,_.createElement("h1",null,"404"))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-7fabd56666b81c46c13f.js.map
